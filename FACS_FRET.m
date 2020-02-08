@@ -1,3 +1,6 @@
+% FRET 2-hybrid assay implemented using a flow cytometer -- LSR II and BD FACS Diva
+% Manu Ben-Johny, mbj2124@cumc.columbia.edu
+
 function output = FACS_FRET(varargin)
 if nargin==0
     InitializeGUI;
